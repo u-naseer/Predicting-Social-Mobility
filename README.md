@@ -9,4 +9,4 @@ A key part of the project is to cleanup and combine data from various sources to
   
   c. Suggest private individuals with a given economic condition, if they should move to a different neighborhood which offer more opportunity. 
   
-Right now the project is in the data wrangling stage and I will keep this file updated as improvements are made.
+The data wrangling stage of the project is finished now and I have collected and cleaned the data from various sources. I will keep these files updated as the project moves forward.
